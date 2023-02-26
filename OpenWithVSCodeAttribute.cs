@@ -1,9 +1,8 @@
 #if UNITY_EDITOR
 using System.Diagnostics;
-using UnityEditor;
 using UnityEngine;
 
-namespace Ruchi.Editor
+namespace UnityEditor
 {
 	public class OpenWithVSCodeAttribute : PropertyAttribute
 	{
